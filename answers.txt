@@ -10,3 +10,7 @@ Answer: One example of a field data science could be applied to is finance.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines commit histories and rebasing rewrites commit history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about data science!
