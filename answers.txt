@@ -5,3 +5,8 @@ Answer: It's helpful for version control.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: One example of a field data science could be applied to is finance.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines commit histories and rebasing rewrites commit history.
